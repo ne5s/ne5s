@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello I'm Jongwon Jang 👋
+- - -
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fne5s&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=phobos90)](https://solved.ac/phobos90/)
 
 <!--
 <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=black"> -->
@@ -9,18 +14,23 @@
 <br/>
 <br/>
 
+<!--
 <div align="center">
 
-<!--
+
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=velog&link=https://velog.io/@phobos90)](https://velog.io/@phobos90)
 
 [![ne5s' github stats](https://github-readme-stats.vercel.app/api?username=ne5s&theme=blueberry&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fne5s&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+
+
+
+
 <!--
+
 **ne5s/ne5s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
